@@ -5,6 +5,9 @@
 [submodule "OLStrajr"]
 	path = OLStrajr
 	url = https://github.com/mightymetrika/olstrajr
+[submodule "bootwar"]
+	path = bootwar
+	url = https://github.com/mightymetrika/bootwar
 [submodule "npboottprm"]
 	path = npboottprm
 	url = https://github.com/mightymetrika/npboottprm
