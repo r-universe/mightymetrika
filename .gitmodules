@@ -8,6 +8,9 @@
 [submodule "bootwar"]
 	path = bootwar
 	url = https://github.com/mightymetrika/bootwar
+[submodule "exactamente"]
+	path = exactamente
+	url = https://github.com/mightymetrika/exactamente
 [submodule "npboottprm"]
 	path = npboottprm
 	url = https://github.com/mightymetrika/npboottprm
