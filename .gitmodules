@@ -11,6 +11,9 @@
 [submodule "exactamente"]
 	path = exactamente
 	url = https://github.com/mightymetrika/exactamente
+[submodule "mmcards"]
+	path = mmcards
+	url = https://github.com/mightymetrika/mmcards
 [submodule "npboottprm"]
 	path = npboottprm
 	url = https://github.com/mightymetrika/npboottprm
