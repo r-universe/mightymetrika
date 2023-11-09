@@ -14,6 +14,9 @@
 [submodule "mmcards"]
 	path = mmcards
 	url = https://github.com/mightymetrika/mmcards
+[submodule "mmibain"]
+	path = mmibain
+	url = https://github.com/mightymetrika/mmibain
 [submodule "mmirestriktor"]
 	path = mmirestriktor
 	url = https://github.com/mightymetrika/mmirestriktor
