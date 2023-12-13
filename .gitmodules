@@ -23,3 +23,6 @@
 [submodule "npboottprm"]
 	path = npboottprm
 	url = https://github.com/mightymetrika/npboottprm
+[submodule "npboottprmFBar"]
+	path = npboottprmFBar
+	url = https://github.com/mightymetrika/npboottprmfbar
