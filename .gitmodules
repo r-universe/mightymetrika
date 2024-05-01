@@ -29,3 +29,6 @@
 [submodule "npboottprmFBar"]
 	path = npboottprmFBar
 	url = https://github.com/mightymetrika/npboottprmfbar
+[submodule "scdtb"]
+	path = scdtb
+	url = https://github.com/mightymetrika/scdtb
